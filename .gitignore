@@ -16,6 +16,7 @@ build/
 bin/
 debug/
 release/
+LexNet/
 *.obj
 *.o
 *.exe
